@@ -1,4 +1,5 @@
 # Work Day Scheduler
+![image](https://user-images.githubusercontent.com/65581204/202946837-0c266945-a248-4115-aeed-3c7efeb34179.png)
 
 ## User Story
 
@@ -29,4 +30,5 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ## Production Site
+
 
